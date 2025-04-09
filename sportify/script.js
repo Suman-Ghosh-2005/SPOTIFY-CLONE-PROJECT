@@ -52,7 +52,7 @@ async function main(){
 
    
  //get the list of song
-await getsong("songs/cs")
+await getsong("songs/ncs")
 
 playMusic(songs[0],true)
 
